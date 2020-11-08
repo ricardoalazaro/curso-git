@@ -10,6 +10,8 @@ namespace Projeto_teste
             Console.WriteLine("Bom dia!");
 
             Console.WriteLine();
+
+            Console.WriteLine("Até a próxima!");
         }
     }
 }
